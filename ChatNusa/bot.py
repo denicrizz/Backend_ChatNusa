@@ -2,6 +2,7 @@ import os
 import json
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
 
@@ -9,13 +10,25 @@ from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFacto
 stemmer = StemmerFactory().create_stemmer()
 stopword = StopWordRemoverFactory().create_stop_word_remover()
 
+# Custom stemmer untuk menangani kata-kata khusus
+def custom_stemmer(text):
+    kata_khusus = {
+        "pengelasan": "ngelas",
+        "pembelajaran": "ajar",
+        "berbasis": "basis"
+    }
+    tokens = text.split()
+    hasil = [kata_khusus[token] if token in kata_khusus else stemmer.stem(token) for token in tokens]
+    return ' '.join(hasil)
+
+# Fungsi preprocessing teks
 def preprocess(text):
     text = text.lower()
     tokens = text.split()
     tokens = [token for token in tokens if token.isalpha()]
     cleaned = ' '.join(tokens)
     no_stop = stopword.remove(cleaned)
-    stemmed = stemmer.stem(no_stop)
+    stemmed = custom_stemmer(no_stop)
     return stemmed
 
 # Base directory
@@ -39,36 +52,31 @@ repo_df['preprocessed'] = repo_df['title'].apply(preprocess)
 # TF-IDF Vectorizer untuk masing-masing dataset
 info_vectorizer = TfidfVectorizer()
 info_tfidf = info_vectorizer.fit_transform(info_df['preprocessed'])
-info_features = info_vectorizer.get_feature_names_out()
 
 repo_vectorizer = TfidfVectorizer()
 repo_tfidf = repo_vectorizer.fit_transform(repo_df['preprocessed'])
-repo_features = repo_vectorizer.get_feature_names_out()
 
-def calculate_score(query_tokens, tfidf_matrix, features, vectorizer):
-    scores = []
-    for i in range(tfidf_matrix.shape[0]):
-        doc_vec = tfidf_matrix[i].toarray().flatten()
-        doc_score = 0.0
-        for token in query_tokens:
-            if token in features:
-                idx = vectorizer.vocabulary_.get(token)
-                if idx is not None:
-                    doc_score += doc_vec[idx]
-        scores.append((i, doc_score))
+# Fungsi untuk menghitung cosine similarity
+def calculate_cosine_scores(query_vector, tfidf_matrix):
+    similarities = cosine_similarity(query_vector, tfidf_matrix).flatten()
+    scores = list(enumerate(similarities))
     scores = sorted(scores, key=lambda x: x[1], reverse=True)
     return scores
 
+# Fungsi utama sistem pencarian
 def search_system(query):
     query_pre = preprocess(query)
-    query_tokens = query_pre.split()
 
-    info_scores = calculate_score(query_tokens, info_tfidf, info_features, info_vectorizer)
+    # Vektorisasi query
+    info_query_vec = info_vectorizer.transform([query_pre])
+    info_scores = calculate_cosine_scores(info_query_vec, info_tfidf)
     best_info_idx, best_info_score = info_scores[0]
 
-    repo_scores = calculate_score(query_tokens, repo_tfidf, repo_features, repo_vectorizer)
-    top_repo_scores = [score for score in repo_scores if score[1] > 0][:5]  # ambil 5 teratas
+    repo_query_vec = repo_vectorizer.transform([query_pre])
+    repo_scores = calculate_cosine_scores(repo_query_vec, repo_tfidf)
+    top_repo_scores = [score for score in repo_scores if score[1] > 0][:5]
 
+    # Logika pemilihan hasil terbaik
     if best_info_score >= (top_repo_scores[0][1] if top_repo_scores else 0) and best_info_score > 0:
         result = info_df.iloc[best_info_idx]
         return "info", {
@@ -87,9 +95,6 @@ def search_system(query):
         return "repository", results
     else:
         return "none", None
-
-
-
 
 # Fungsi untuk dipanggil dari Django
 def get_response(query):
