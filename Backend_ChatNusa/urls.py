@@ -19,7 +19,7 @@ from django.urls import path, include
 from django.http import JsonResponse
 
 def home_view(request):
-    return JsonResponse({"message": "API Backend ChatNusa telah terhubung"})
+    return JsonResponse({"message": "OK"})
 
 urlpatterns = [
     path('', home_view), 

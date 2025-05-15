@@ -1,11 +1,15 @@
+from django.views.decorators.csrf import csrf_exempt
 from django.http import JsonResponse
 from .bot import get_response
 
-from django.http import JsonResponse
-from .bot import get_response
-
+@csrf_exempt
 def search_api(request):
-    query = request.GET.get("message", "")
+    if request.method != "POST":
+        return JsonResponse({"status": "error", "message": "Method harus POST"}, status=405)
+    
+    import json
+    data = json.loads(request.body.decode("utf-8"))
+    query = data.get("message", "")
     if not query:
         return JsonResponse({"status": "error", "message": "Query kosong."})
 
@@ -21,7 +25,7 @@ def search_api(request):
         return JsonResponse({
             "status": "success",
             "type": "repository",
-            "results": result  # <- result adalah list of dicts
+            "results": result
         })
     else:
         return JsonResponse({

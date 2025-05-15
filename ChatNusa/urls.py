@@ -1,6 +1,6 @@
 from django.urls import path
-from .views import search_api
+from . import views
 
 urlpatterns = [
-    path('chat/', search_api, name='search_api'),  # buang 'api/' di sini
+    path("chat/", views.search_api),
 ]
