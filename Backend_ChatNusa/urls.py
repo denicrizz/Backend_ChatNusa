@@ -16,10 +16,16 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from django.http import JsonResponse
+
+def home_view(request):
+    return JsonResponse({"message": "API Backend ChatNusa telah terhubung"})
 
 urlpatterns = [
+    path('', home_view), 
     path('admin/', admin.site.urls),
     path('api/', include('ChatNusa.urls')),
 ]
+
 
 

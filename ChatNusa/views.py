@@ -1,6 +1,9 @@
 from django.http import JsonResponse
 from .bot import get_response
 
+from django.http import JsonResponse
+from .bot import get_response
+
 def search_api(request):
     query = request.GET.get("message", "")
     if not query:
@@ -11,8 +14,7 @@ def search_api(request):
     if result_type == "info":
         return JsonResponse({
             "status": "success",
-            "type": "info",
-            "pertanyaan": result["pertanyaan"],
+            "type": "info_UNP",
             "jawaban": result["jawaban"]
         })
     elif result_type == "repository":
