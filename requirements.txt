@@ -3,3 +3,4 @@ numpy==2.2.5
 pandas==2.2.3
 PySastrawi==1.2.0
 scikit-learn==1.6.1
+django-cors-headers
