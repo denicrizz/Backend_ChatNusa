@@ -101,9 +101,9 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:5173",  # Jika kamu pakai Vite
+    "http://localhost:5173",  #  Vite
     "http://127.0.0.1:5173",
-    "https://chat-nusa-react.vercel.app/",  # Jika kamu deploy di Vercel
+    "https://chat-nusa-react.vercel.app",  # Vercel
 ]
 
 # Internationalization
