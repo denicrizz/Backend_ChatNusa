@@ -25,10 +25,20 @@ SECRET_KEY = 'django-insecure-88lo1adz(vk!rm&uo#&nzzj*!l3mejufs$wi3)r(5%h)wi7_%j
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+SECURE_SSL_REDIRECT = True
+
+CORS_ALLOWED_ORIGINS = [
+    "http://localhost:5173",  # Jika kamu pakai Vite
+    "http://127.0.0.1:5173",
+    "https://chat-nusa-react.vercel.app",  # Jika kamu deploy di Vercel
+]
+
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
+# APPEND_SLASH = False
 
 INSTALLED_APPS = [
     'corsheaders',
@@ -38,6 +48,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'corsheaders',
 ]
 
 MIDDLEWARE = [
