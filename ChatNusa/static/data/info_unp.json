@@ -1,68 +1,68 @@
 [
-    {
-      "id": "unp001",
-      "kategori": "Akademik",
-      "topik": "Pembayaran SPP",
-      "pertanyaan": "Kapan waktu pembayaran SPP di UNP Kediri?",
-      "jawaban": "Pembayaran SPP untuk Semester Januari–Juni 2025 dapat dilakukan mulai tbagaiananggal 6 hingga 31 Januari 2025. Jadwal ini diumumkan melalui kanal resmi UNP Kediri."
-    },
-    {
-      "id": "unp002",
-      "kategori": "Akademik",
-      "topik": "Pembayaran SPP",
-      "pertanyaan": "Dimana saya bisa membayar SPP di UNP Kediri?",
-      "jawaban": "Pembayaran SPP dapat dilakukan melalui Bank Jatim atau Bank Mandiri menggunakan Virtual Account yang telah disediakan oleh UNP Kediri."
-    },
-    {
-      "id": "unp003",
-      "kategori": "Akademik",
-      "topik": "Pembayaran SPP",
-      "pertanyaan": "Bagaimana jika saya terlambat membayar SPP di UNP Kediri?",
-      "jawaban": "Jika terlambat membayar SPP, mahasiswa biasanya dikenakan denda administrasi sesuai ketentuan yang berlaku di UNP Kediri. Keterlambatan juga dapat mempengaruhi proses pengisian KRS dan keikutsertaan ujian."
-    },
-    {
-      "id": "unp004",
-      "kategori": "Keuangan",
-      "topik": "Biaya Kuliah",
-      "pertanyaan": "Berapa biaya SPP per semester di UNP Kediri?",
-      "jawaban": "Biaya SPP per semester di UNP Kediri bervariasi tergantung program studi, berkisar antara Rp2.000.000 hingga Rp5.500.000. Rincian lengkap dapat dilihat di situs resmi UNP Kediri."
-    },
-    {
-      "id": "unp005",
-      "kategori": "Keuangan",
-      "topik": "Biaya Kuliah",
-      "pertanyaan": "Apa itu DPP di UNP Kediri?",
-      "jawaban": "DPP (Dana Pengembangan Pendidikan) adalah biaya yang dibayarkan sekali di awal perkuliahan. Besarannya berkisar antara Rp3.000.000 hingga Rp5.000.000, tergantung program studi. Pembayaran dapat diangsur hingga semester 2."
-    },
-    {
-      "id": "unp006",
-      "kategori": "Keuangan",
-      "topik": "Biaya Kuliah",
-      "pertanyaan": "Berapa biaya heregistrasi di UNP Kediri?",
-      "jawaban": "Biaya heregistrasi di UNP Kediri sebesar Rp600.000 dan dibayarkan setiap semester."
-    },
-    {
-      "id": "unp007",
-      "kategori": "Keuangan",
-      "topik": "Biaya Toefl dan Uji komputer",
-      "pertanyaan": "Bagaimana alur pembayaran toefl dan ujikom",
-      "jawaban": "\n 1. bayar ke bau \n 2. dikasih kertas ditulis \n 3. lalu dikasi bau lagi \n 4. lalu dikasih lagi kertas sisa 2 \n 5. lalu daftar lwat siakad daftar toefl dan ujikom \n 6. lalu ke lpkm\n 7. finish."
-    },
-    {
-      "id":"unp008",
-      "kategori" : "Lokasi",
-      "topik" : "Lokasi kampus",
-      "pertanyaan" : "Dimana saja lokasi kampus unp kediri",
-      "jawaban": "\n 1. Kampus 1 : https://maps.app.goo.gl/xgqEMbvGEo7M5tKm6 \n 2. Kampus 2: https://maps.app.goo.gl/zpXT4mB9UcwjbBgn8 \n 3. Kampus 3: https://maps.app.goo.gl/okiHejP2wFzqbjGfA \n 4. Kampus 4: https://maps.app.goo.gl/QxHfQJ16JJoV8RLE8 \n 5. Kampus 5: https://maps.app.goo.gl/hKjgVCN5tNjZ8vMW7"
-    },
-    {
-      "id":"unp009",
-      "kategori":"Akademik",
-      "topik":"Dosen akademik teknik informatika",
-      "pertanyaan":"Siapa saja dosen Teknik Informatika",
-      "jawaban":"\n 1. Ahmad Bagus Setiawan, ST, M.Kom., MM. NIDN : 0703018704 \n 2. Ardi Sanjaya, M.Kom. NIDN : 0706118101 \n 3. Juli Sulaksono, Ir., M.kom., M,M, NIDN : 0707076505 \n 4. Resty Wulanningrum, M.Kom NIDN : 0719068702 \n 5. Ratih Kumalasari N, S.ST., M.Kom. \n 6. Patmi Kasih, M.Kom. NIDN : 0701107802 \n 7. Daniel Swanjaya, M.Kom NIDN : 0723098303 \n 8. Intan Nur Farida, M.Kom NIDN : 0704108701 \n 9. Danar Putra Pamungkas, M.Kom NIDN : 0708028704 \n 10. Rony Heri Irawan, M.Kom. NIDN : 0711018102 \n 11. Dr. Risky Aswi Ramadhani, M. Kom. NIDN : 0708049001 \n 12. Muh. Aris Saputra, M.Kom NIDN : 0721109801 \n 13. Risa Helilintar, M.Kom NIDN : 0721058902 \n 14. Lilia Sinta Wahyuniar, M.Pd NIDN : 0705129001 \n 15. Umi Mahdiyah, S.Pd., M.Si NIDN : 0729098903 \n 16. Siti Rochana, M.Pd NIDN : 0713028801 \n 17. Made Ayu Dusea Widya Dara, M.Kom NIDN : 0729088802 \n 18. Danang Wahyu Widodo, S.P. M.Kom NIDN : 0720117501 \n 19. Julian Sahertian, S.Pd., M.T NIDN : 0707079001 \n 20. Wahyu Cahyo Utomo, S.Kom., M.Cs NIDN : 0713059502"
-    },
-    {
+  {
+    "id": "unp001",
+    "kategori": "Akademik",
+    "topik": "Pembayaran SPP",
+    "pertanyaan": "Kapan waktu pembayaran SPP di UNP Kediri?",
+    "jawaban": "Pembayaran SPP untuk Semester Januari–Juni 2025 dapat dilakukan mulai tanggal 6 hingga 31 Januari 2025. Jadwal ini diumumkan melalui kanal resmi UNP Kediri."
+  },
+  {
+    "id": "unp002",
+    "kategori": "Akademik",
+    "topik": "Pembayaran SPP",
+    "pertanyaan": "Dimana saya bisa membayar SPP di UNP Kediri?",
+    "jawaban": "Pembayaran SPP dapat dilakukan melalui Bank Jatim atau Bank Mandiri menggunakan Virtual Account yang telah disediakan oleh UNP Kediri."
+  },
+  {
+    "id": "unp003",
+    "kategori": "Akademik",
+    "topik": "Pembayaran SPP",
+    "pertanyaan": "Bagaimana jika saya terlambat membayar SPP di UNP Kediri?",
+    "jawaban": "Jika terlambat membayar SPP, mahasiswa biasanya dikenakan denda administrasi sesuai ketentuan yang berlaku di UNP Kediri. Keterlambatan juga dapat mempengaruhi proses pengisian KRS dan keikutsertaan ujian."
+  },
+  {
+    "id": "unp004",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP per semester di UNP Kediri?",
+    "jawaban": "Biaya SPP per semester di UNP Kediri bervariasi tergantung program studi, berkisar antara Rp2.000.000 hingga Rp5.500.000. Rincian lengkap dapat dilihat di situs resmi UNP Kediri."
+  },
+  {
+    "id": "unp005",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Apa itu DPP di UNP Kediri?",
+    "jawaban": "DPP (Dana Pengembangan Pendidikan) adalah biaya yang dibayarkan sekali di awal perkuliahan. Besarannya berkisar antara Rp3.000.000 hingga Rp5.000.000, tergantung program studi. Pembayaran dapat diangsur hingga semester 2."
+  },
+  {
+    "id": "unp006",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya heregistrasi di UNP Kediri?",
+    "jawaban": "Biaya heregistrasi di UNP Kediri sebesar Rp600.000 dan dibayarkan setiap semester."
+  },
+  {
+    "id": "unp007",
+    "kategori": "Keuangan",
+    "topik": "Biaya Toefl dan Uji komputer",
+    "pertanyaan": "Bagaimana alur pembayaran toefl dan ujikom",
+    "jawaban": "\n 1. bayar ke bau \n 2. dikasih kertas ditulis \n 3. lalu dikasi bau lagi \n 4. lalu dikasih lagi kertas sisa 2 \n 5. lalu daftar lwat siakad daftar toefl dan ujikom \n 6. lalu ke lpkm\n 7. finish."
+  },
+  {
+    "id": "unp008",
+    "kategori": "Lokasi",
+    "topik": "Lokasi kampus",
+    "pertanyaan": "Dimana saja lokasi kampus unp kediri",
+    "jawaban": "\n 1. Kampus 1 : https://maps.app.goo.gl/xgqEMbvGEo7M5tKm6 \n 2. Kampus 2: https://maps.app.goo.gl/zpXT4mB9UcwjbBgn8 \n 3. Kampus 3: https://maps.app.goo.gl/okiHejP2wFzqbjGfA \n 4. Kampus 4: https://maps.app.goo.gl/QxHfQJ16JJoV8RLE8 \n 5. Kampus 5: https://maps.app.goo.gl/hKjgVCN5tNjZ8vMW7"
+  },
+  {
+    "id": "unp009",
+    "kategori": "Akademik",
+    "topik": "Dosen akademik teknik informatika",
+    "pertanyaan": "Siapa saja dosen Teknik Informatika",
+    "jawaban": "\n 1. Ahmad Bagus Setiawan, ST, M.Kom., MM. NIDN : 0703018704 \n 2. Ardi Sanjaya, M.Kom. NIDN : 0706118101 \n 3. Juli Sulaksono, Ir., M.kom., M,M, NIDN : 0707076505 \n 4. Resty Wulanningrum, M.Kom NIDN : 0719068702 \n 5. Ratih Kumalasari N, S.ST., M.Kom. \n 6. Patmi Kasih, M.Kom. NIDN : 0701107802 \n 7. Daniel Swanjaya, M.Kom NIDN : 0723098303 \n 8. Intan Nur Farida, M.Kom NIDN : 0704108701 \n 9. Danar Putra Pamungkas, M.Kom NIDN : 0708028704 \n 10. Rony Heri Irawan, M.Kom. NIDN : 0711018102 \n 11. Dr. Risky Aswi Ramadhani, M. Kom. NIDN : 0708049001 \n 12. Muh. Aris Saputra, M.Kom NIDN : 0721109801 \n 13. Risa Helilintar, M.Kom NIDN : 0721058902 \n 14. Lilia Sinta Wahyuniar, M.Pd NIDN : 0705129001 \n 15. Umi Mahdiyah, S.Pd., M.Si NIDN : 0729098903 \n 16. Siti Rochana, M.Pd NIDN : 0713028801 \n 17. Made Ayu Dusea Widya Dara, M.Kom NIDN : 0729088802 \n 18. Danang Wahyu Widodo, S.P. M.Kom NIDN : 0720117501 \n 19. Julian Sahertian, S.Pd., M.T NIDN : 0707079001 \n 20. Wahyu Cahyo Utomo, S.Kom., M.Cs NIDN : 0713059502"
+  },
+  {
     "id": "unp010",
     "kategori": "Akademik",
     "topik": "KRS",
@@ -349,154 +349,676 @@
     "pertanyaan": "Apa saja kegiatan non-akademik di UNP Kediri?",
     "jawaban": "Kegiatan non-akademik seperti lomba seni, olahraga, seminar, workshop, dan kegiatan sosial rutin diselenggarakan oleh kampus dan UKM."
   },
-  {"id": "unp051", 
-  "kategori": "Akademik", 
-  "topik": "Yudisium", 
-  "pertanyaan": "Apa itu yudisium?", 
-  "jawaban": "Yudisium adalah proses penilaian akhir terhadap seluruh capaian akademik mahasiswa sebelum dinyatakan lulus."
-},
-    {"id": "unp052", 
-    "kategori": "Akademik", 
-    "topik": "Yudisium", 
-    "pertanyaan": "Kapan jadwal yudisium dilaksanakan?", 
+  {
+    "id": "unp051",
+    "kategori": "Akademik",
+    "topik": "Yudisium",
+    "pertanyaan": "Apa itu yudisium?",
+    "jawaban": "Yudisium adalah proses penilaian akhir terhadap seluruh capaian akademik mahasiswa sebelum dinyatakan lulus."
+  },
+  {
+    "id": "unp052",
+    "kategori": "Akademik",
+    "topik": "Yudisium",
+    "pertanyaan": "Kapan jadwal yudisium dilaksanakan?",
     "jawaban": "Jadwal yudisium ditentukan oleh fakultas dan biasanya diumumkan pada akhir semester setelah ujian akhir."
   },
-    {"id": "unp053", 
-    "kategori": "Akademik", 
-    "topik": "Yudisium", 
-    "pertanyaan": "Apa syarat mengikuti yudisium?", 
+  {
+    "id": "unp053",
+    "kategori": "Akademik",
+    "topik": "Yudisium",
+    "pertanyaan": "Apa syarat mengikuti yudisium?",
     "jawaban": "Mahasiswa harus sudah menyelesaikan semua SKS, lulus skripsi, bebas tanggungan administrasi, dan memenuhi persyaratan lain dari fakultas."
   },
-    {"id": "unp054", 
-    "kategori": "Akademik", 
-    "topik": "Yudisium", 
-    "pertanyaan": "Di mana lokasi pelaksanaan yudisium?", 
+  {
+    "id": "unp054",
+    "kategori": "Akademik",
+    "topik": "Yudisium",
+    "pertanyaan": "Di mana lokasi pelaksanaan yudisium?",
     "jawaban": "Yudisium biasanya dilaksanakan di ruang auditorium atau aula fakultas masing-masing."
   },
-    {"id": "unp055", 
-    "kategori": "Akademik", 
-    "topik": "Yudisium", 
-    "pertanyaan": "Apakah yudisium berbeda dengan wisuda?", 
+  {
+    "id": "unp055",
+    "kategori": "Akademik",
+    "topik": "Yudisium",
+    "pertanyaan": "Apakah yudisium berbeda dengan wisuda?",
     "jawaban": "Ya, yudisium adalah penetapan kelulusan akademik, sedangkan wisuda adalah seremoni kelulusan."
   },
-    {"id": "unp056", 
-    "kategori": "Kemahasiswaan", 
-    "topik": "Organisasi", 
-    "pertanyaan": "Apa saja organisasi kemahasiswaan yang ada di UNP Kediri?", 
+  {
+    "id": "unp056",
+    "kategori": "Kemahasiswaan",
+    "topik": "Organisasi",
+    "pertanyaan": "Apa saja organisasi kemahasiswaan yang ada di UNP Kediri?",
     "jawaban": "Terdapat BEM, Himpunan Mahasiswa Jurusan, UKM Seni, UKM Olahraga, dan lainnya."
   },
-    {"id": "unp057", 
-    "kategori": "Kemahasiswaan", 
-    "topik": "Organisasi", 
-    "pertanyaan": "Bagaimana cara bergabung dengan organisasi mahasiswa?", 
+  {
+    "id": "unp057",
+    "kategori": "Kemahasiswaan",
+    "topik": "Organisasi",
+    "pertanyaan": "Bagaimana cara bergabung dengan organisasi mahasiswa?",
     "jawaban": "Mahasiswa dapat mendaftar saat open recruitment yang diumumkan oleh masing-masing organisasi di awal semester."
   },
-    {"id": "unp058", 
-    "kategori": "Kemahasiswaan", 
-    "topik": "Organisasi", 
-    "pertanyaan": "Apa keuntungan mengikuti organisasi mahasiswa?", 
+  {
+    "id": "unp058",
+    "kategori": "Kemahasiswaan",
+    "topik": "Organisasi",
+    "pertanyaan": "Apa keuntungan mengikuti organisasi mahasiswa?",
     "jawaban": "Menambah pengalaman, relasi, meningkatkan soft skill, dan menjadi nilai tambah saat lulus."
   },
-    {"id": "unp059", 
-    "kategori": "Kemahasiswaan", 
-    "topik": "Organisasi", 
-    "pertanyaan": "Apakah organisasi mahasiswa bersifat wajib?", 
+  {
+    "id": "unp059",
+    "kategori": "Kemahasiswaan",
+    "topik": "Organisasi",
+    "pertanyaan": "Apakah organisasi mahasiswa bersifat wajib?",
     "jawaban": "Tidak wajib, namun sangat disarankan untuk menambah pengalaman dan jaringan."
   },
-    {"id": "unp060", 
-    "kategori": "Kemahasiswaan", 
-    "topik": "Organisasi", 
-    "pertanyaan": "Apakah ikut organisasi mempengaruhi nilai akademik?", 
+  {
+    "id": "unp060",
+    "kategori": "Kemahasiswaan",
+    "topik": "Organisasi",
+    "pertanyaan": "Apakah ikut organisasi mempengaruhi nilai akademik?",
     "jawaban": "Tidak secara langsung, namun manajemen waktu yang buruk bisa berpengaruh. Perlu keseimbangan."
   },
-  {"id": "unp061", 
-  "kategori": "Kemahasiswaan", 
-  "topik": "Beasiswa", 
-  "pertanyaan": "Apa saja jenis beasiswa di UNP Kediri?", 
-  "jawaban": "Beasiswa yang tersedia antara lain KIP-K, PPA, Yayasan, dan Beasiswa Prestasi dari kampus."
-},
-    {"id": "unp062", 
-    "kategori": "Kemahasiswaan", 
-    "topik": "Beasiswa", 
-    "pertanyaan": "Bagaimana cara mendaftar beasiswa KIP-K?", 
+  {
+    "id": "unp061",
+    "kategori": "Kemahasiswaan",
+    "topik": "Beasiswa",
+    "pertanyaan": "Apa saja jenis beasiswa di UNP Kediri?",
+    "jawaban": "Beasiswa yang tersedia antara lain KIP-K, PPA, Yayasan, dan Beasiswa Prestasi dari kampus."
+  },
+  {
+    "id": "unp062",
+    "kategori": "Kemahasiswaan",
+    "topik": "Beasiswa",
+    "pertanyaan": "Bagaimana cara mendaftar beasiswa KIP-K?",
     "jawaban": "Mahasiswa dapat mendaftar melalui laman resmi KIP Kuliah dan mengikuti seleksi administrasi serta wawancara."
   },
-    {"id": "unp063", 
-    "kategori": "Kemahasiswaan", 
-    "topik": "Beasiswa", 
-    "pertanyaan": "Kapan waktu pendaftaran beasiswa PPA dibuka?", 
+  {
+    "id": "unp063",
+    "kategori": "Kemahasiswaan",
+    "topik": "Beasiswa",
+    "pertanyaan": "Kapan waktu pendaftaran beasiswa PPA dibuka?",
     "jawaban": "Pendaftaran beasiswa PPA biasanya dibuka pada awal semester genap, informasi resmi akan diumumkan oleh bagian kemahasiswaan."
   },
-    {"id": "unp064", 
-    "kategori": "Kemahasiswaan", 
-    "topik": "Beasiswa", 
-    "pertanyaan": "Apa saja syarat mendapatkan beasiswa prestasi?", 
+  {
+    "id": "unp064",
+    "kategori": "Kemahasiswaan",
+    "topik": "Beasiswa",
+    "pertanyaan": "Apa saja syarat mendapatkan beasiswa prestasi?",
     "jawaban": "Memiliki IPK minimal 3.5, aktif di kegiatan kemahasiswaan, dan tidak sedang menerima beasiswa lain."
   },
-    {"id": "unp065", 
-    "kategori": "Kemahasiswaan", 
-    "topik": "Beasiswa", 
-    "pertanyaan": "Apakah penerima beasiswa harus mempertahankan IPK tertentu?", 
+  {
+    "id": "unp065",
+    "kategori": "Kemahasiswaan",
+    "topik": "Beasiswa",
+    "pertanyaan": "Apakah penerima beasiswa harus mempertahankan IPK tertentu?",
     "jawaban": "Ya, umumnya penerima beasiswa harus mempertahankan IPK minimal 3.0 atau sesuai syarat beasiswa masing-masing."
   },
-    {"id": "unp066", 
-    "kategori": "Fasilitas", 
-    "topik": "Perpustakaan", 
-    "pertanyaan": "Dimana lokasi perpustakaan UNP Kediri?", 
+  {
+    "id": "unp066",
+    "kategori": "Fasilitas",
+    "topik": "Perpustakaan",
+    "pertanyaan": "Dimana lokasi perpustakaan UNP Kediri?",
     "jawaban": "Perpustakaan utama berada di Kampus 1, lantai 2 gedung rektorat."
   },
-    {"id": "unp067", 
-    "kategori": "Fasilitas", 
-    "topik": "Perpustakaan", 
-    "pertanyaan": "Jam operasional perpustakaan UNP Kediri?", 
+  {
+    "id": "unp067",
+    "kategori": "Fasilitas",
+    "topik": "Perpustakaan",
+    "pertanyaan": "Jam operasional perpustakaan UNP Kediri?",
     "jawaban": "Senin–Jumat pukul 08.00–16.00 WIB."
   },
-    {"id": "unp068", 
-    "kategori": "Fasilitas", 
-    "topik": "Perpustakaan", 
-    "pertanyaan": "Bagaimana cara meminjam buku di perpustakaan?", 
+  {
+    "id": "unp068",
+    "kategori": "Fasilitas",
+    "topik": "Perpustakaan",
+    "pertanyaan": "Bagaimana cara meminjam buku di perpustakaan?",
     "jawaban": "Mahasiswa cukup membawa KTM dan memilih buku yang diinginkan untuk dicatat oleh petugas perpustakaan."
   },
-    {"id": "unp069", 
-    "kategori": "Fasilitas", 
+  {
+    "id": "unp069",
+    "kategori": "Fasilitas",
     "topik": "Perpustakaan",
-     "pertanyaan": "Berapa lama batas waktu peminjaman buku?",
-      "jawaban": "Lama peminjaman maksimal 7 hari dan dapat diperpanjang jika tidak ada pemesan lain."
-    },
-    {"id": "unp070",
-     "kategori": "Fasilitas",
-      "topik": "Perpustakaan",
-       "pertanyaan": "Apakah ada denda jika telat mengembalikan buku?",
-        "jawaban": "Ya, denda keterlambatan sebesar Rp1.000 per hari per buku."
-      },
-      {"id": "unp071", "kategori": "Fasilitas", "topik": "Laboratorium", "pertanyaan": "Apa saja laboratorium yang tersedia di UNP Kediri?", "jawaban": "UNP Kediri memiliki laboratorium komputer, bahasa, microteaching, dan laboratorium sesuai jurusan masing-masing."},
-    {"id": "unp072", "kategori": "Fasilitas", "topik": "Laboratorium", "pertanyaan": "Bagaimana cara menggunakan laboratorium komputer?", "jawaban": "Mahasiswa dapat menggunakan laboratorium komputer sesuai jadwal praktikum atau dengan izin dari laboran."},
-    {"id": "unp073", "kategori": "Fasilitas", "topik": "Laboratorium", "pertanyaan": "Siapa yang bertanggung jawab atas laboratorium?", "jawaban": "Setiap laboratorium dikelola oleh seorang laboran yang bertugas membantu kegiatan praktikum dan pemeliharaan alat."},
-    {"id": "unp074", "kategori": "Fasilitas", "topik": "Laboratorium", "pertanyaan": "Apakah mahasiswa boleh menggunakan laboratorium di luar jam praktikum?", "jawaban": "Ya, dengan izin tertulis dari dosen atau laboran dan tidak mengganggu jadwal praktikum lain."},
-    {"id": "unp075", "kategori": "Fasilitas", "topik": "Laboratorium", "pertanyaan": "Apakah laboratorium dilengkapi dengan Wi-Fi?", "jawaban": "Sebagian besar laboratorium telah dilengkapi dengan jaringan Wi-Fi kampus untuk keperluan akademik."},
-    {"id": "unp076", "kategori": "Fasilitas", "topik": "Wi-Fi Kampus", "pertanyaan": "Bagaimana cara mengakses Wi-Fi kampus?", "jawaban": "Mahasiswa dapat mengakses Wi-Fi menggunakan akun SIAKAD atau akun hotspot yang disediakan oleh TI kampus."},
-    {"id": "unp077", "kategori": "Fasilitas", "topik": "Wi-Fi Kampus", "pertanyaan": "Apakah seluruh area kampus terjangkau Wi-Fi?", "jawaban": "Sebagian besar area kampus utama sudah terjangkau Wi-Fi, namun beberapa titik mungkin memiliki sinyal lemah."},
-    {"id": "unp078", "kategori": "Fasilitas", "topik": "Wi-Fi Kampus", "pertanyaan": "Apa nama SSID Wi-Fi kampus?", "jawaban": "SSID Wi-Fi UNP Kediri biasanya bernama 'UNPK_WIFI' atau 'UNPK-Hotspot'."},
-    {"id": "unp079", "kategori": "Fasilitas", "topik": "Wi-Fi Kampus", "pertanyaan": "Bagaimana jika tidak bisa login ke Wi-Fi kampus?", "jawaban": "Silakan lapor ke bagian TI atau helpdesk di gedung rektorat dengan menyertakan NIM dan kendala yang dialami."},
-    {"id": "unp080", "kategori": "Fasilitas", "topik": "Wi-Fi Kampus", "pertanyaan": "Apakah Wi-Fi kampus bisa diakses 24 jam?", "jawaban": "Wi-Fi tersedia selama kampus aktif, tetapi koneksi mungkin terbatas di luar jam operasional atau akhir pekan."},
-    {"id": "unp081", "kategori": "Penerimaan Mahasiswa Baru", "topik": "Pendaftaran", "pertanyaan": "Kapan pendaftaran mahasiswa baru dibuka?", "jawaban": "Pendaftaran mahasiswa baru biasanya dibuka mulai bulan Februari hingga Agustus setiap tahunnya."},
-    {"id": "unp082", "kategori": "Penerimaan Mahasiswa Baru", "topik": "Pendaftaran", "pertanyaan": "Bagaimana cara mendaftar kuliah di UNP Kediri?", "jawaban": "Pendaftaran dilakukan secara online melalui website resmi UNP Kediri dengan mengisi formulir dan mengunggah dokumen yang dibutuhkan."},
-    {"id": "unp083", "kategori": "Penerimaan Mahasiswa Baru", "topik": "Pendaftaran", "pertanyaan": "Apa saja jalur masuk UNP Kediri?", "jawaban": "UNP Kediri menyediakan jalur reguler, jalur prestasi, dan jalur beasiswa untuk calon mahasiswa baru."},
-    {"id": "unp084", "kategori": "Penerimaan Mahasiswa Baru", "topik": "Pendaftaran", "pertanyaan": "Apakah ada ujian masuk di UNP Kediri?", "jawaban": "Beberapa program studi mensyaratkan tes masuk, sedangkan untuk jalur prestasi dapat langsung seleksi administrasi."},
-    {"id": "unp085", "kategori": "Penerimaan Mahasiswa Baru", "topik": "Pendaftaran", "pertanyaan": "Di mana saya bisa mendapatkan informasi PMB terbaru?", "jawaban": "Informasi PMB dapat diperoleh dari website resmi, media sosial UNP Kediri, atau langsung menghubungi bagian akademik."},
-    {"id": "unp086", "kategori": "Akademik", "topik": "Skripsi", "pertanyaan": "Kapan mahasiswa bisa mengambil skripsi?", "jawaban": "Mahasiswa dapat mengambil skripsi setelah menyelesaikan minimal 120 SKS dan memenuhi syarat akademik lainnya."},
-    {"id": "unp087", "kategori": "Akademik", "topik": "Skripsi", "pertanyaan": "Apa saja syarat pengajuan skripsi?", "jawaban": "Syarat pengajuan meliputi transkrip nilai, surat bebas tanggungan, proposal skripsi, dan formulir pendaftaran."},
-    {"id": "unp088", "kategori": "Akademik", "topik": "Skripsi", "pertanyaan": "Siapa yang menentukan dosen pembimbing skripsi?", "jawaban": "Dosen pembimbing ditentukan oleh program studi berdasarkan topik skripsi dan keahlian dosen."},
-    {"id": "unp089", "kategori": "Akademik", "topik": "Skripsi", "pertanyaan": "Apakah boleh mengganti dosen pembimbing skripsi?", "jawaban": "Boleh, dengan alasan yang kuat dan persetujuan dari ketua program studi."},
-    {"id": "unp090", "kategori": "Akademik", "topik": "Skripsi", "pertanyaan": "Berapa lama waktu penyusunan skripsi?", "jawaban": "Waktu penyusunan idealnya 1–2 semester tergantung mahasiswa dan bimbingan yang dilakukan."},
-    {"id": "unp091", "kategori": "Kemahasiswaan", "topik": "KTM", "pertanyaan": "Bagaimana cara membuat KTM?", "jawaban": "KTM dibuat setelah registrasi ulang dan pengambilan data dilakukan di bagian kemahasiswaan."},
-    {"id": "unp092", "kategori": "Kemahasiswaan", "topik": "KTM", "pertanyaan": "Apakah KTM bisa digunakan untuk meminjam buku di perpustakaan?", "jawaban": "Ya, KTM berfungsi sebagai kartu identitas dan alat peminjaman buku di perpustakaan kampus."},
-    {"id": "unp093", "kategori": "Kemahasiswaan", "topik": "KTM", "pertanyaan": "Apa yang harus dilakukan jika KTM hilang?", "jawaban": "Segera lapor ke bagian kemahasiswaan dan buat surat kehilangan dari kepolisian untuk proses penggantian."},
-    {"id": "unp094", "kategori": "Kemahasiswaan", "topik": "KTM", "pertanyaan": "Berapa biaya penggantian KTM yang hilang?", "jawaban": "Biaya penggantian KTM yang hilang sekitar Rp25.000–Rp50.000 tergantung ketentuan kampus."},
-    {"id": "unp095", "kategori": "Kemahasiswaan", "topik": "KTM", "pertanyaan": "Apakah KTM diperlukan saat wisuda?", "jawaban": "Ya, KTM diperlukan sebagai identitas mahasiswa untuk verifikasi data wisudawan."},
-    {"id": "unp096", "kategori": "Layanan Akademik", "topik": "Transkrip Nilai", "pertanyaan": "Bagaimana cara mencetak transkrip nilai?", "jawaban": "Mahasiswa bisa mengajukan permohonan cetak transkrip di bagian akademik dengan membawa KTM dan bukti bebas administrasi."},
-    {"id": "unp097", "kategori": "Layanan Akademik", "topik": "Transkrip Nilai", "pertanyaan": "Apakah transkrip nilai bisa dicetak dalam bahasa Inggris?", "jawaban": "Ya, transkrip nilai dalam bahasa Inggris tersedia atas permintaan khusus mahasiswa."},
-    {"id": "unp098", "kategori": "Layanan Akademik", "topik": "Transkrip Nilai", "pertanyaan": "Berapa lama proses pencetakan transkrip nilai?", "jawaban": "Proses pencetakan transkrip nilai biasanya memakan waktu 2–5 hari kerja tergantung jumlah permintaan."},
-    {"id": "unp099", "kategori": "Layanan Akademik", "topik": "Transkrip Nilai", "pertanyaan": "Apakah transkrip nilai bisa diambil oleh orang lain?", "jawaban": "Bisa, dengan membawa surat kuasa bermaterai dan fotokopi KTM mahasiswa."},
-    {"id": "unp100", "kategori": "Layanan Akademik", "topik": "Transkrip Nilai", "pertanyaan": "Di mana lokasi pengambilan transkrip nilai?", "jawaban": "Transkrip nilai bisa diambil di bagian akademik gedung rektorat UNP Kediri."}
- ]
+    "pertanyaan": "Berapa lama batas waktu peminjaman buku?",
+    "jawaban": "Lama peminjaman maksimal 7 hari dan dapat diperpanjang jika tidak ada pemesan lain."
+  },
+  {
+    "id": "unp070",
+    "kategori": "Fasilitas",
+    "topik": "Perpustakaan",
+    "pertanyaan": "Apakah ada denda jika telat mengembalikan buku?",
+    "jawaban": "Ya, denda keterlambatan sebesar Rp1.000 per hari per buku."
+  },
+  {
+    "id": "unp071",
+    "kategori": "Fasilitas",
+    "topik": "Laboratorium",
+    "pertanyaan": "Apa saja laboratorium yang tersedia di UNP Kediri?",
+    "jawaban": "UNP Kediri memiliki laboratorium komputer, bahasa, microteaching, dan laboratorium sesuai jurusan masing-masing."
+  },
+  {
+    "id": "unp072",
+    "kategori": "Fasilitas",
+    "topik": "Laboratorium",
+    "pertanyaan": "Bagaimana cara menggunakan laboratorium komputer?",
+    "jawaban": "Mahasiswa dapat menggunakan laboratorium komputer sesuai jadwal praktikum atau dengan izin dari laboran."
+  },
+  {
+    "id": "unp073",
+    "kategori": "Fasilitas",
+    "topik": "Laboratorium",
+    "pertanyaan": "Siapa yang bertanggung jawab atas laboratorium?",
+    "jawaban": "Setiap laboratorium dikelola oleh seorang laboran yang bertugas membantu kegiatan praktikum dan pemeliharaan alat."
+  },
+  {
+    "id": "unp074",
+    "kategori": "Fasilitas",
+    "topik": "Laboratorium",
+    "pertanyaan": "Apakah mahasiswa boleh menggunakan laboratorium di luar jam praktikum?",
+    "jawaban": "Ya, dengan izin tertulis dari dosen atau laboran dan tidak mengganggu jadwal praktikum lain."
+  },
+  {
+    "id": "unp075",
+    "kategori": "Fasilitas",
+    "topik": "Laboratorium",
+    "pertanyaan": "Apakah laboratorium dilengkapi dengan Wi-Fi?",
+    "jawaban": "Sebagian besar laboratorium telah dilengkapi dengan jaringan Wi-Fi kampus untuk keperluan akademik."
+  },
+  {
+    "id": "unp076",
+    "kategori": "Fasilitas",
+    "topik": "Wi-Fi Kampus",
+    "pertanyaan": "Bagaimana cara mengakses Wi-Fi kampus?",
+    "jawaban": "Mahasiswa dapat mengakses Wi-Fi menggunakan akun SIAKAD atau akun hotspot yang disediakan oleh TI kampus."
+  },
+  {
+    "id": "unp077",
+    "kategori": "Fasilitas",
+    "topik": "Wi-Fi Kampus",
+    "pertanyaan": "Apakah seluruh area kampus terjangkau Wi-Fi?",
+    "jawaban": "Sebagian besar area kampus utama sudah terjangkau Wi-Fi, namun beberapa titik mungkin memiliki sinyal lemah."
+  },
+  {
+    "id": "unp078",
+    "kategori": "Fasilitas",
+    "topik": "Wi-Fi Kampus",
+    "pertanyaan": "Apa nama SSID Wi-Fi kampus?",
+    "jawaban": "SSID Wi-Fi UNP Kediri biasanya bernama 'UNPK_WIFI' atau 'UNPK-Hotspot'."
+  },
+  {
+    "id": "unp079",
+    "kategori": "Fasilitas",
+    "topik": "Wi-Fi Kampus",
+    "pertanyaan": "Bagaimana jika tidak bisa login ke Wi-Fi kampus?",
+    "jawaban": "Silakan lapor ke bagian TI atau helpdesk di gedung rektorat dengan menyertakan NIM dan kendala yang dialami."
+  },
+  {
+    "id": "unp080",
+    "kategori": "Fasilitas",
+    "topik": "Wi-Fi Kampus",
+    "pertanyaan": "Apakah Wi-Fi kampus bisa diakses 24 jam?",
+    "jawaban": "Wi-Fi tersedia selama kampus aktif, tetapi koneksi mungkin terbatas di luar jam operasional atau akhir pekan."
+  },
+  {
+    "id": "unp081",
+    "kategori": "Penerimaan Mahasiswa Baru",
+    "topik": "Pendaftaran",
+    "pertanyaan": "Kapan pendaftaran mahasiswa baru dibuka?",
+    "jawaban": "Pendaftaran mahasiswa baru biasanya dibuka mulai bulan Februari hingga Agustus setiap tahunnya."
+  },
+  {
+    "id": "unp082",
+    "kategori": "Penerimaan Mahasiswa Baru",
+    "topik": "Pendaftaran",
+    "pertanyaan": "Bagaimana cara mendaftar kuliah di UNP Kediri?",
+    "jawaban": "Pendaftaran dilakukan secara online melalui website resmi UNP Kediri dengan mengisi formulir dan mengunggah dokumen yang dibutuhkan."
+  },
+  {
+    "id": "unp083",
+    "kategori": "Penerimaan Mahasiswa Baru",
+    "topik": "Pendaftaran",
+    "pertanyaan": "Apa saja jalur masuk UNP Kediri?",
+    "jawaban": "UNP Kediri menyediakan jalur reguler, jalur prestasi, dan jalur beasiswa untuk calon mahasiswa baru."
+  },
+  {
+    "id": "unp084",
+    "kategori": "Penerimaan Mahasiswa Baru",
+    "topik": "Pendaftaran",
+    "pertanyaan": "Apakah ada ujian masuk di UNP Kediri?",
+    "jawaban": "Beberapa program studi mensyaratkan tes masuk, sedangkan untuk jalur prestasi dapat langsung seleksi administrasi."
+  },
+  {
+    "id": "unp085",
+    "kategori": "Penerimaan Mahasiswa Baru",
+    "topik": "Pendaftaran",
+    "pertanyaan": "Di mana saya bisa mendapatkan informasi PMB terbaru?",
+    "jawaban": "Informasi PMB dapat diperoleh dari website resmi, media sosial UNP Kediri, atau langsung menghubungi bagian akademik."
+  },
+  {
+    "id": "unp086",
+    "kategori": "Akademik",
+    "topik": "Skripsi",
+    "pertanyaan": "Kapan mahasiswa bisa mengambil skripsi?",
+    "jawaban": "Mahasiswa dapat mengambil skripsi setelah menyelesaikan minimal 120 SKS dan memenuhi syarat akademik lainnya."
+  },
+  {
+    "id": "unp087",
+    "kategori": "Akademik",
+    "topik": "Skripsi",
+    "pertanyaan": "Apa saja syarat pengajuan skripsi?",
+    "jawaban": "Syarat pengajuan meliputi transkrip nilai, surat bebas tanggungan, proposal skripsi, dan formulir pendaftaran."
+  },
+  {
+    "id": "unp088",
+    "kategori": "Akademik",
+    "topik": "Skripsi",
+    "pertanyaan": "Siapa yang menentukan dosen pembimbing skripsi?",
+    "jawaban": "Dosen pembimbing ditentukan oleh program studi berdasarkan topik skripsi dan keahlian dosen."
+  },
+  {
+    "id": "unp089",
+    "kategori": "Akademik",
+    "topik": "Skripsi",
+    "pertanyaan": "Apakah boleh mengganti dosen pembimbing skripsi?",
+    "jawaban": "Boleh, dengan alasan yang kuat dan persetujuan dari ketua program studi."
+  },
+  {
+    "id": "unp090",
+    "kategori": "Akademik",
+    "topik": "Skripsi",
+    "pertanyaan": "Berapa lama waktu penyusunan skripsi?",
+    "jawaban": "Waktu penyusunan idealnya 1–2 semester tergantung mahasiswa dan bimbingan yang dilakukan."
+  },
+  {
+    "id": "unp091",
+    "kategori": "Kemahasiswaan",
+    "topik": "KTM",
+    "pertanyaan": "Bagaimana cara membuat KTM?",
+    "jawaban": "KTM dibuat setelah registrasi ulang dan pengambilan data dilakukan di bagian kemahasiswaan."
+  },
+  {
+    "id": "unp092",
+    "kategori": "Kemahasiswaan",
+    "topik": "KTM",
+    "pertanyaan": "Apakah KTM bisa digunakan untuk meminjam buku di perpustakaan?",
+    "jawaban": "Ya, KTM berfungsi sebagai kartu identitas dan alat peminjaman buku di perpustakaan kampus."
+  },
+  {
+    "id": "unp093",
+    "kategori": "Kemahasiswaan",
+    "topik": "KTM",
+    "pertanyaan": "Apa yang harus dilakukan jika KTM hilang?",
+    "jawaban": "Segera lapor ke bagian kemahasiswaan dan buat surat kehilangan dari kepolisian untuk proses penggantian."
+  },
+  {
+    "id": "unp094",
+    "kategori": "Kemahasiswaan",
+    "topik": "KTM",
+    "pertanyaan": "Berapa biaya penggantian KTM yang hilang?",
+    "jawaban": "Biaya penggantian KTM yang hilang sekitar Rp25.000–Rp50.000 tergantung ketentuan kampus."
+  },
+  {
+    "id": "unp095",
+    "kategori": "Kemahasiswaan",
+    "topik": "KTM",
+    "pertanyaan": "Apakah KTM diperlukan saat wisuda?",
+    "jawaban": "Ya, KTM diperlukan sebagai identitas mahasiswa untuk verifikasi data wisudawan."
+  },
+  {
+    "id": "unp096",
+    "kategori": "Layanan Akademik",
+    "topik": "Transkrip Nilai",
+    "pertanyaan": "Bagaimana cara mencetak transkrip nilai?",
+    "jawaban": "Mahasiswa bisa mengajukan permohonan cetak transkrip di bagian akademik dengan membawa KTM dan bukti bebas administrasi."
+  },
+  {
+    "id": "unp097",
+    "kategori": "Layanan Akademik",
+    "topik": "Transkrip Nilai",
+    "pertanyaan": "Apakah transkrip nilai bisa dicetak dalam bahasa Inggris?",
+    "jawaban": "Ya, transkrip nilai dalam bahasa Inggris tersedia atas permintaan khusus mahasiswa."
+  },
+  {
+    "id": "unp098",
+    "kategori": "Layanan Akademik",
+    "topik": "Transkrip Nilai",
+    "pertanyaan": "Berapa lama proses pencetakan transkrip nilai?",
+    "jawaban": "Proses pencetakan transkrip nilai biasanya memakan waktu 2–5 hari kerja tergantung jumlah permintaan."
+  },
+  {
+    "id": "unp099",
+    "kategori": "Layanan Akademik",
+    "topik": "Transkrip Nilai",
+    "pertanyaan": "Apakah transkrip nilai bisa diambil oleh orang lain?",
+    "jawaban": "Bisa, dengan membawa surat kuasa bermaterai dan fotokopi KTM mahasiswa."
+  },
+  {
+    "id": "unp100",
+    "kategori": "Layanan Akademik",
+    "topik": "Transkrip Nilai",
+    "pertanyaan": "Di mana lokasi pengambilan transkrip nilai?",
+    "jawaban": "Transkrip nilai bisa diambil di bagian akademik gedung rektorat UNP Kediri."
+  },
+  {
+    "id": "unp101",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi Bimbingan dan Konseling (S1)?",
+    "jawaban": "Biaya DPP untuk program studi Bimbingan dan Konseling (S1) adalah Rp4.000.000."
+  },
+  {
+    "id": "unp102",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi Pendidikan Sejarah (S1)?",
+    "jawaban": "Biaya DPP untuk program studi Pendidikan Sejarah (S1) adalah Rp3.000.000."
+  },
+  {
+    "id": "unp103",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi PPKN (S1)?",
+    "jawaban": "Biaya DPP untuk program studi PPKN (S1) adalah Rp3.000.000."
+  },
+  {
+    "id": "unp104",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi Pendidikan Bahasa dan Sastra Indonesia (S1)?",
+    "jawaban": "Biaya DPP untuk program studi Pendidikan Bahasa dan Sastra Indonesia (S1) adalah Rp2.000.000."
+  },
+  {
+    "id": "unp105",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi Pendidikan Bahasa Inggris (S1)?",
+    "jawaban": "Biaya DPP untuk program studi Pendidikan Bahasa Inggris (S1) adalah Rp3.000.000."
+  },
+  {
+    "id": "unp106",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi Pendidikan Guru Sekolah Dasar (S1)?",
+    "jawaban": "Biaya DPP untuk program studi Pendidikan Guru Sekolah Dasar (S1) adalah Rp4.000.000."
+  },
+  {
+    "id": "unp107",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi Pendidikan Guru Anak Usia Dini (S1)?",
+    "jawaban": "Biaya DPP untuk program studi Pendidikan Guru Anak Usia Dini (S1) adalah Rp3.000.000."
+  },
+  {
+    "id": "unp108",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi Manajemen (S1)?",
+    "jawaban": "Biaya DPP untuk program studi Manajemen (S1) adalah Rp5.000.000."
+  },
+  {
+    "id": "unp109",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi Akuntansi (S1)?",
+    "jawaban": "Biaya DPP untuk program studi Akuntansi (S1) adalah Rp4.000.000."
+  },
+  {
+    "id": "unp110",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi Pendidikan Ekonomi (S1)?",
+    "jawaban": "Biaya DPP untuk program studi Pendidikan Ekonomi (S1) adalah Rp3.000.000."
+  },
+  {
+    "id": "unp111",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi Teknik Mesin (S1)?",
+    "jawaban": "Biaya DPP untuk program studi Teknik Mesin (S1) adalah Rp5.000.000."
+  },
+  {
+    "id": "unp112",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi Teknik Informatika (S1)?",
+    "jawaban": "Biaya DPP untuk program studi Teknik Informatika (S1) adalah Rp5.000.000."
+  },
+  {
+    "id": "unp113",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi Sistem Informasi (S1)?",
+    "jawaban": "Biaya DPP untuk program studi Sistem Informasi (S1) adalah Rp3.000.000."
+  },
+  {
+    "id": "unp114",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi Teknik Elektro (D3)?",
+    "jawaban": "Biaya DPP untuk program studi Teknik Elektro (D3) adalah Rp3.000.000."
+  },
+  {
+    "id": "unp115",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi Penjaskesrek (S1)?",
+    "jawaban": "Biaya DPP untuk program studi Penjaskesrek (S1) adalah Rp3.000.000."
+  },
+  {
+    "id": "unp116",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi Pendidikan Matematika (S1)?",
+    "jawaban": "Biaya DPP untuk program studi Pendidikan Matematika (S1) adalah Rp3.000.000."
+  },
+  {
+    "id": "unp117",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi Pendidikan Biologi (S1)?",
+    "jawaban": "Biaya DPP untuk program studi Pendidikan Biologi (S1) adalah Rp3.000.000."
+  },
+  {
+    "id": "unp118",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi Peternakan (D3)?",
+    "jawaban": "Biaya DPP untuk program studi Peternakan (D3) adalah Rp2.000.000."
+  },
+  {
+    "id": "unp119",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi Keperawatan (D3)?",
+    "jawaban": "Biaya DPP untuk program studi Keperawatan (D3) adalah Rp3.000.000."
+  },
+  {
+    "id": "unp120",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi Kebidanan (D3)?",
+    "jawaban": "Biaya DPP untuk program studi Kebidanan (D3) adalah Rp5.000.000."
+  },
+  {
+    "id": "unp121",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi Kepelatihan Olahraga (S2)?",
+    "jawaban": "Biaya DPP untuk program studi Kepelatihan Olahraga (S2) adalah Rp5.000.000."
+  },
+  {
+    "id": "unp122",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi Pendidikan Ekonomi (S2)?",
+    "jawaban": "Biaya DPP untuk program studi Pendidikan Ekonomi (S2) adalah Rp5.000.000."
+  },
+  {
+    "id": "unp123",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya DPP untuk program studi Pendidikan Profesi Guru (PPG)?",
+    "jawaban": "Biaya DPP untuk program studi Pendidikan Profesi Guru (PPG) adalah Rp5.000.000."
+  },
+  {
+    "id": "unp124",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi Bimbingan dan Konseling (S1)?",
+    "jawaban": "Biaya SPP untuk program studi Bimbingan dan Konseling (S1) adalah Rp3.600.000."
+  },
+  {
+    "id": "unp125",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi Pendidikan Sejarah (S1)?",
+    "jawaban": "Biaya SPP untuk program studi Pendidikan Sejarah (S1) adalah Rp2.400.000."
+  },
+  {
+    "id": "unp126",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi PPKN (S1)?",
+    "jawaban": "Biaya SPP untuk program studi PPKN (S1) adalah Rp2.400.000."
+  },
+  {
+    "id": "unp127",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi Pendidikan Bahasa dan Sastra Indonesia (S1)?",
+    "jawaban": "Biaya SPP untuk program studi Pendidikan Bahasa dan Sastra Indonesia (S1) adalah Rp2.000.000."
+  },
+  {
+    "id": "unp128",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi Pendidikan Bahasa Inggris (S1)?",
+    "jawaban": "Biaya SPP untuk program studi Pendidikan Bahasa Inggris (S1) adalah Rp2.800.000."
+  },
+  {
+    "id": "unp129",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi Pendidikan Guru Sekolah Dasar (S1)?",
+    "jawaban": "Biaya SPP untuk program studi Pendidikan Guru Sekolah Dasar (S1) adalah Rp3.500.000."
+  },
+  {
+    "id": "unp130",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi Pendidikan Guru Anak Usia Dini (S1)?",
+    "jawaban": "Biaya SPP untuk program studi Pendidikan Guru Anak Usia Dini (S1) adalah Rp3.100.000."
+  },
+  {
+    "id": "unp131",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi Manajemen (S1)?",
+    "jawaban": "Biaya SPP untuk program studi Manajemen (S1) adalah Rp3.800.000."
+  },
+  {
+    "id": "unp132",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi Akuntansi (S1)?",
+    "jawaban": "Biaya SPP untuk program studi Akuntansi (S1) adalah Rp3.400.000."
+  },
+  {
+    "id": "unp133",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi Pendidikan Ekonomi (S1)?",
+    "jawaban": "Biaya SPP untuk program studi Pendidikan Ekonomi (S1) adalah Rp2.800.000."
+  },
+  {
+    "id": "unp134",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi Teknik Mesin (S1)?",
+    "jawaban": "Biaya SPP untuk program studi Teknik Mesin (S1) adalah Rp3.800.000."
+  },
+  {
+    "id": "unp135",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi Teknik Informatika (S1)?",
+    "jawaban": "Biaya SPP untuk program studi Teknik Informatika (S1) adalah Rp3.800.000."
+  },
+  {
+    "id": "unp136",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi Sistem Informasi (S1)?",
+    "jawaban": "Biaya SPP untuk program studi Sistem Informasi (S1) adalah Rp2.800.000."
+  },
+  {
+    "id": "unp137",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi Teknik Elektro (D3)?",
+    "jawaban": "Biaya SPP untuk program studi Teknik Elektro (D3) adalah Rp2.800.000."
+  },
+  {
+    "id": "unp138",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi Penjaskesrek (S1)?",
+    "jawaban": "Biaya SPP untuk program studi Penjaskesrek (S1) adalah Rp3.100.000."
+  },
+  {
+    "id": "unp139",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi Pendidikan Matematika (S1)?",
+    "jawaban": "Biaya SPP untuk program studi Pendidikan Matematika (S1) adalah Rp3.000.000."
+  },
+  {
+    "id": "unp140",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi Pendidikan Biologi (S1)?",
+    "jawaban": "Biaya SPP untuk program studi Pendidikan Biologi (S1) adalah Rp3.000.000."
+  },
+  {
+    "id": "unp141",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi Peternakan (D3)?",
+    "jawaban": "Biaya SPP untuk program studi Peternakan (D3) adalah Rp2.000.000."
+  },
+  {
+    "id": "unp142",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi Keperawatan (D3)?",
+    "jawaban": "Biaya SPP untuk program studi Keperawatan (D3) adalah Rp3.500.000."
+  },
+  {
+    "id": "unp143",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi Kebidanan (D3)?",
+    "jawaban": "Biaya SPP untuk program studi Kebidanan (D3) adalah Rp5.000.000."
+  },
+  {
+    "id": "unp144",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi Kepelatihan Olahraga (S2)?",
+    "jawaban": "Biaya SPP untuk program studi Kepelatihan Olahraga (S2) adalah Rp5.800.000."
+  },
+  {
+    "id": "unp145",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi Pendidikan Ekonomi (S2)?",
+    "jawaban": "Biaya SPP untuk program studi Pendidikan Ekonomi (S2) adalah Rp5.800.000."
+  },
+  {
+    "id": "unp146",
+    "kategori": "Keuangan",
+    "topik": "Biaya Kuliah",
+    "pertanyaan": "Berapa biaya SPP untuk program studi Pendidikan Profesi Guru (PPG)?",
+    "jawaban": "Biaya SPP untuk program studi Pendidikan Profesi Guru (PPG) adalah Rp8.500.000."
+  }
+]

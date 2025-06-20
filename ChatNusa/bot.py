@@ -1,6 +1,9 @@
 import os
 import json
 import pandas as pd
+import nltk
+nltk.download('punkt_tab')
+from nltk.tokenize import word_tokenize
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
@@ -26,7 +29,7 @@ def custom_stemmer(text):
 # --- Preprocessing ---
 def preprocess(text):
     text = text.lower()
-    tokens = text.split()
+    tokens = word_tokenize(text)
     tokens = [token for token in tokens if token.isalpha()]
     clean_text = ' '.join(tokens)
     no_stopword = stopword_remover.remove(clean_text)
